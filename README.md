@@ -41,7 +41,4 @@ The dashboard is saved in an Excel workbook (.xlsx) format.
 The Excel file is large and cannot be previewed directly on GitHub.  
 Please download the file from the `master` branch to explore the dashboard and analysis.  
 
-Feel free to explore and modify the file for further insights!
- 
-
-Feel free to explore and modify the file for further insights!  
+Feel free to explore and modify the file for further insights! 
