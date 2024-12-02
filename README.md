@@ -41,8 +41,4 @@ The dashboard is saved in an Excel workbook (.xlsx) format.
 The Excel file is large and cannot be previewed directly on GitHub.  
 Please download the file to explore the dashboard and analysis.  
 
-Below is a screenshot of the dashboard for reference:  
-
-![Dashboard Screenshot](Ekran görüntüsü 2024-12-02 220314.png)
-
 Feel free to explore and modify the file for further insights!  
