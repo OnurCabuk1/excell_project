@@ -37,8 +37,11 @@ This project focuses on analyzing a company's activities over a specific period.
 ## 💾 File Format  
 The dashboard is saved in an Excel workbook (.xlsx) format.  
 
-## Note
+**Note**  
 The Excel file is large and cannot be previewed directly on GitHub.  
-Please download the file to explore the dashboard and analysis.  
+Please download the file from the `master` branch to explore the dashboard and analysis.  
+
+Feel free to explore and modify the file for further insights!
+ 
 
 Feel free to explore and modify the file for further insights!  
