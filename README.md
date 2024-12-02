@@ -43,6 +43,6 @@ Please download the file to explore the dashboard and analysis.
 
 Below is a screenshot of the dashboard for reference:  
 
-![Dashboard Screenshot]("C:\Users\95onu\Pictures\Screenshots\Ekran görüntüsü 2024-12-02 220314.png")
+![Dashboard Screenshot](Ekran görüntüsü 2024-12-02 220314.png)
 
 Feel free to explore and modify the file for further insights!  
